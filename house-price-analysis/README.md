@@ -25,6 +25,20 @@ key factors affecting house prices and predict sale prices.
 - Newer houses generally sell for more than older houses
 - Most houses are priced between $100,000 and $250,000
 
+## Visualizations
+
+### Price Distribution
+![Price Distribution](images/price_distribution.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
+
+### Living Area vs Sale Price
+![Scatter Plot](images/scatter_plot.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
+
 ## Machine Learning Results
 | Model | RMSE | Performance |
 |-------|------|-------------|
